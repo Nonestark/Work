@@ -4,3 +4,4 @@ let Hardin = {
 }
 console.log(Hardin["age"]);
 console.log(Hardin.name);
+console.log("Hi, its my first step");
